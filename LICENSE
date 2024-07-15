@@ -1,0 +1,9 @@
+The Lilium Project is a combination of the Linux Kernel Module ("Module"), 
+plugins source code located in "plugin" folder ("Plugins")
+and examples source code located under "example" folder ("Examples").
+
+Module is licensed under GPL license, version 2. More details can be found at LICENSE-GPL file.
+
+Plugins are licensed under LGPL license, either version 2.1 or at your discretion, any later version. More details can be found at LICENSE-LGPL file.
+
+Examples are licensed under MIT license. More details can be found at LICENSE-MIT file.
